@@ -1,0 +1,2 @@
+# The Complete 2024 Web Development Bootcamp - Documentation
+ This repository contains projects and exercises from “The Complete 2024 Web Development Bootcamp” by Dr. Angela Yu. The course covers a wide range of topics including HTML, CSS, JavaScript, Node.js, Express, MongoDB, React, and more. These projects showcase the skills acquired throughout the bootcamp, focusing on both front-end and back-end web development.
